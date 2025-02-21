@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLino3005&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeLino3005&theme=black-ice&border=30A3DC&stroke=E94D5F)
+
 
 ## 🚀 Principais Projetos
 [![Gerenciador de Campeonato](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeLino3005&repo=Gerenciador_De_Campeonado&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GuilhermeLino3005/Gerenciador_De_Campeonado)
