@@ -12,6 +12,9 @@
 
 [![Clone Sportify](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeLino3005&repo=Projeto_Sportify_Site&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GuilhermeLino3005/Projeto_Sportify_Site)
 
+
+[![Nearby_App](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeLino3005&repo=Nearby_App&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GuilhermeLino3005/Nearby_App)
+
 ## 📬 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-guilherme-lino-de-sá-5a8a56210/)
 
